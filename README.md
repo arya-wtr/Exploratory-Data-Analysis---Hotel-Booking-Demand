@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis---Hotel-Booking-Demand
+# Exploratory-Data-Analysis-Hotel-Booking-Demand
 
 Hotel Booking Demand
 The hospitality sector offers diverse accommodation experiences that cater to various types of travelers. City hotels, often situated within vibrant urban centers, blend modern amenities with local charm, providing travelers with easy access to historic neighborhoods, landmarks, and cultural hotspots. For instance, City Hotel in Lisbon allows guests to enjoy modern comfort amidst iconic sites and bustling markets, appealing to those exploring urban landscapes. Meanwhile, resort hotels, typically located in scenic coastal regions like the Algarve, offer serene escapes that emphasize relaxation and outdoor adventure, drawing travelers in search of leisure and scenic beauty.
